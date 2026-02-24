@@ -1,1 +1,1 @@
-# Malaria_detection
+# Chronic Kidney Disease Detection
